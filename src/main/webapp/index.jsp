@@ -1,6 +1,6 @@
 <html>
 <body>
-<h1><font color='red'>Welcome to Jatin IT .....!!!!<font></h1>
+<h1><font color='blue'>Welcome to Jatin IT .....!!!!<font></h1>
 <h2>Learn here ... Lead Anywhere ...!!! </h2>
 <h3>Jatin is a intelligent boy and his broher is russian specialist in alphabat !!!! </h3>
 <h4>Jatin & Ishaan Play school .............!!!</h4>
